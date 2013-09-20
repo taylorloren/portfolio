@@ -1,4 +1,4 @@
 portfolio
 =========
 
-My resume, cover letter, writing, and some of my favourite things. 
+My resume, cover letter, work samples, and some of my favourite things. 
